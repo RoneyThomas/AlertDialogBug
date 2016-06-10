@@ -22,5 +22,5 @@ Android N Nexus 9
 I have tried running the demo on a moto e and nexus 4 running android 6 AOSP and this problem doesn't seem to appear.
 From what i understand this only affects devices with higher ppi.
 
-Turns out other people are also having the issue.
+Turns out other people are also having the [issue](http://stackoverflow.com/questions/35235344/datepicker-widget-does-not-take-up-entire-alertdialog-on-nexus-6).
 
