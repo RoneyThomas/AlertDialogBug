@@ -1,6 +1,6 @@
 # AlertDialogBug
 
-This is a sample app to demo the bug in Android DatePicker. This only affects devices running Android 6/Android N which have high ppi like nexus 6p and nexus 9.
+This is a sample app to demo the bug in Android DatePicker. This only affects devices running Android 6/Android N which have high dpi like nexus 6p and nexus 9.
 
 The issue here is that `android:layout_width="match_parent"` doesn't work for the DatePicker widget.
 
