@@ -4,6 +4,8 @@ This is a sample app to demo the bug in Android DatePicker. This only affects de
 
 The issue here is that `android:layout_width="match_parent"` doesn't work for the DatePicker widget.
 
+[Star the issue if you are also having trouble](https://code.google.com/p/android/issues/detail?id=212698).
+
 Here it's running on nexus6p android 5.1 emulator. This is how it should work. 
 ![alt tag](https://github.com/RoneyThomas/AlertDialogBug/blob/master/android-5.1.png)
 
